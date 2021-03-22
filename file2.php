@@ -8,3 +8,5 @@ echo "file2.php";
 echo "feature D";
 
 echo "work1";
+
+echo "feature E";
