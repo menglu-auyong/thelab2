@@ -1,3 +1,3 @@
 <?php
 
-echo "feature 2";
+echo "feature 2+";
